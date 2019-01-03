@@ -3,9 +3,9 @@ package fix44
 import (
 	"time"
 
-	"Users/jluthy/src/work/quickfix/gen/enum"
-	"Users/jluthy/src/work/quickfix/gen/field"
-	"Users/jluthy/src/work/quickfix/gen/tag"
+	"github.com/coin-lion/quickfix/enum"
+	"github.com/coin-lion/quickfix/field"
+	"github.com/coin-lion/quickfix/tag"
 	"github.com/coin-lion/quickfix"
 )
 

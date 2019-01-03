@@ -3,9 +3,9 @@ package listcancelrequest
 import (
 	"time"
 
-	"Users/jluthy/src/work/quickfix/gen/field"
-	"Users/jluthy/src/work/quickfix/gen/fix44"
-	"Users/jluthy/src/work/quickfix/gen/tag"
+	"github.com/coin-lion/quickfix/field"
+	"github.com/coin-lion/quickfix/fix44"
+	"github.com/coin-lion/quickfix/tag"
 	"github.com/coin-lion/quickfix"
 )
 

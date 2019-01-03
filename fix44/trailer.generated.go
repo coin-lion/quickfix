@@ -1,8 +1,8 @@
 package fix44
 
 import (
-	"Users/jluthy/src/work/quickfix/gen/field"
-	"Users/jluthy/src/work/quickfix/gen/tag"
+	"github.com/coin-lion/quickfix/field"
+	"github.com/coin-lion/quickfix/tag"
 	"github.com/coin-lion/quickfix"
 )
 
