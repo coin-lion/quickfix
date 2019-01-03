@@ -1,4 +1,4 @@
-module github.com/alpacahq/quickfix
+module github.com/coin-lion/quickfix
 
 require (
 	cloud.google.com/go v0.26.0 // indirect

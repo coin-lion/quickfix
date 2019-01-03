@@ -6,7 +6,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/alpacahq/quickfix/internal"
+	"github.com/coin-lion/quickfix/internal"
 )
 
 const (

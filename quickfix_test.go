@@ -3,7 +3,7 @@ package quickfix
 import (
 	"time"
 
-	"github.com/alpacahq/quickfix/internal"
+	"github.com/coin-lion/quickfix/internal"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"

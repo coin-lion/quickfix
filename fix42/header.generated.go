@@ -3,10 +3,10 @@ package fix42
 import (
 	"time"
 
-	"github.com/alpacahq/quickfix"
-	"github.com/alpacahq/quickfix/enum"
-	"github.com/alpacahq/quickfix/field"
-	"github.com/alpacahq/quickfix/tag"
+	"github.com/coin-lion/quickfix"
+	"github.com/coin-lion/quickfix/enum"
+	"github.com/coin-lion/quickfix/field"
+	"github.com/coin-lion/quickfix/tag"
 )
 
 //Header is the fix42 Header type

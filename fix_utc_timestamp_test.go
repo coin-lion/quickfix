@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/alpacahq/quickfix"
+	"github.com/coin-lion/quickfix"
 )
 
 func TestFIXUTCTimestampWrite(t *testing.T) {

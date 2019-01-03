@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/alpacahq/quickfix/datadictionary"
+	"github.com/coin-lion/quickfix/datadictionary"
 	"github.com/stretchr/testify/suite"
 )
 

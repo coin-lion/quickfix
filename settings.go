@@ -7,7 +7,7 @@ import (
 	"io"
 	"regexp"
 
-	"github.com/alpacahq/quickfix/config"
+	"github.com/coin-lion/quickfix/config"
 )
 
 //The Settings type represents a collection of global and session settings.

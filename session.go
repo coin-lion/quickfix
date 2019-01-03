@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/alpacahq/quickfix/datadictionary"
-	"github.com/alpacahq/quickfix/internal"
+	"github.com/coin-lion/quickfix/datadictionary"
+	"github.com/coin-lion/quickfix/internal"
 )
 
 //The Session is the primary FIX abstraction for message communication

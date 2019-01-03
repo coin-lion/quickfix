@@ -3,7 +3,7 @@ package quickfix
 import (
 	"testing"
 
-	"github.com/alpacahq/quickfix/config"
+	"github.com/coin-lion/quickfix/config"
 )
 
 func TestSessionSettings_StringSettings(t *testing.T) {

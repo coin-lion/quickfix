@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/alpacahq/quickfix/config"
+	"github.com/coin-lion/quickfix/config"
 )
 
 func loadTLSConfig(settings *SessionSettings) (tlsConfig *tls.Config, err error) {

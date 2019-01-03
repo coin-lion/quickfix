@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/alpacahq/quickfix/config"
+	"github.com/coin-lion/quickfix/config"
 	"github.com/jinzhu/gorm"
 )
 

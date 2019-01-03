@@ -1,9 +1,9 @@
 package fix42
 
 import (
-	"github.com/alpacahq/quickfix"
-	"github.com/alpacahq/quickfix/field"
-	"github.com/alpacahq/quickfix/tag"
+	"github.com/coin-lion/quickfix"
+	"github.com/coin-lion/quickfix/field"
+	"github.com/coin-lion/quickfix/tag"
 )
 
 //Trailer is the fix42 Trailer type

@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/alpacahq/quickfix/config"
+	"github.com/coin-lion/quickfix/config"
 )
 
 //Acceptor accepts connections from FIX clients and manages the associated sessions.

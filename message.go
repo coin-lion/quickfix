@@ -6,7 +6,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/alpacahq/quickfix/datadictionary"
+	"github.com/coin-lion/quickfix/datadictionary"
 )
 
 //Header is first section of a FIX Message

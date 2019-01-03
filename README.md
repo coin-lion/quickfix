@@ -1,7 +1,7 @@
 QuickFIX/Go
 ===========
 
-[![GoDoc](https://godoc.org/github.com/alpacahq/quickfix?status.png)](https://godoc.org/github.com/alpacahq/quickfix) [![Build Status](https://travis-ci.org/quickfixgo/quickfix.svg?branch=master)](https://travis-ci.org/quickfixgo/quickfix) [![Go Report Card](https://goreportcard.com/badge/github.com/alpacahq/quickfix)](https://goreportcard.com/report/github.com/alpacahq/quickfix)
+[![GoDoc](https://godoc.org/github.com/coin-lion/quickfix?status.png)](https://godoc.org/github.com/coin-lion/quickfix) [![Build Status](https://travis-ci.org/quickfixgo/quickfix.svg?branch=master)](https://travis-ci.org/quickfixgo/quickfix) [![Go Report Card](https://goreportcard.com/badge/github.com/coin-lion/quickfix)](https://goreportcard.com/report/github.com/coin-lion/quickfix)
 
 - Website: http://www.quickfixgo.org
 - Mailing list: [Google Groups](https://groups.google.com/forum/#!forum/quickfixgo)
@@ -12,19 +12,19 @@ Getting Started and Documentation
 ---------------------------------
 
 * [User Manual](http://quickfixgo.org/docs)
-* [API Documentation](https://godoc.org/github.com/alpacahq/quickfix)
+* [API Documentation](https://godoc.org/github.com/coin-lion/quickfix)
 
 ### Installation
 
 To install QuickFIX/Go, use `go get`:
 
 ```sh
-$ go get github.com/alpacahq/quickfix
+$ go get github.com/coin-lion/quickfix
 ```
 
 ### Staying up to date
 
-To update QuickFIX/Go to the latest version, use `go get -u github.com/alpacahq/quickfix`.
+To update QuickFIX/Go to the latest version, use `go get -u github.com/coin-lion/quickfix`.
 
 ### Example Apps
 
@@ -58,7 +58,7 @@ If you wish to work on QuickFIX/Go itself, you will first need [Go](http://www.g
 
 For local dev first make sure Go is properly installed, including setting up a [GOPATH](http://golang.org/doc/code.html#GOPATH).
 
-Next, using [Git](https://git-scm.com/), clone this repository into `$GOPATH/src/github.com/alpacahq/quickfix`. 
+Next, using [Git](https://git-scm.com/), clone this repository into `$GOPATH/src/github.com/coin-lion/quickfix`.
 
 ### Installing Dependencies
 
@@ -151,4 +151,4 @@ $ dep ensure
 Licensing
 ---------
 
-This software is available under the QuickFIX Software License. Please see the [LICENSE.txt](https://github.com/alpacahq/quickfix/blob/master/LICENSE.txt) for the terms specified by the QuickFIX Software License.
+This software is available under the QuickFIX Software License. Please see the [LICENSE.txt](https://github.com/coin-lion/quickfix/blob/master/LICENSE.txt) for the terms specified by the QuickFIX Software License.

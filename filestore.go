@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/alpacahq/quickfix/config"
+	"github.com/coin-lion/quickfix/config"
 )
 
 type msgDef struct {

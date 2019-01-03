@@ -1,11 +1,11 @@
 package tradingsessionstatusrequest
 
 import (
-	"github.com/alpacahq/quickfix"
-	"github.com/alpacahq/quickfix/enum"
-	"github.com/alpacahq/quickfix/field"
-	"github.com/alpacahq/quickfix/fix42"
-	"github.com/alpacahq/quickfix/tag"
+	"github.com/coin-lion/quickfix"
+	"github.com/coin-lion/quickfix/enum"
+	"github.com/coin-lion/quickfix/field"
+	"github.com/coin-lion/quickfix/fix42"
+	"github.com/coin-lion/quickfix/tag"
 )
 
 //TradingSessionStatusRequest is the fix42 TradingSessionStatusRequest type, MsgType = g
